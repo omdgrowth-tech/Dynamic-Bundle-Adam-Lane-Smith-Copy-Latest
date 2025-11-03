@@ -1,0 +1,10 @@
+project_id = "chewhecvjmxxszapnxvp"
+
+[functions.create-payment]
+verify_jwt = false
+
+[functions.create-paypal-order]
+verify_jwt = false
+
+[functions.capture-paypal-payment]
+verify_jwt = false
